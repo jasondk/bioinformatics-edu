@@ -1,9 +1,9 @@
 # Bioinformatics Education Resources
 *v0.1 27 March 2020*
 
-There are now so many excellent courses and freely available resources for learning bioinformatics it can be hard to know where to start. Some of our favourite resources come from the [Genomic Data Science specialization](https://www.coursera.org/specializations/genomic-data-science) on Coursera, and from the [Canadian Bioinformatics Workshops](https://bioinformatics.ca) series. Here we have organized available content by level of expertise and by interest. We take no responsiblity (or credit) for the content of the linked materials, though I think they are all quite good and reflect a lot of thought and hard work by the content authors. At the bottom we include a couple of courses and resources suitable for someone with a computational background who wants an entrez to [bioinformatics](#3.-advanced) and [biology](#4.-biology-for-computer-scientists) more broadly.
+There are now so many excellent courses and freely available resources for learning bioinformatics it can be hard to know where to start. Some of our favourite resources come from the [Genomic Data Science specialization](https://www.coursera.org/specializations/genomic-data-science) on Coursera, and from the [Canadian Bioinformatics Workshops](https://bioinformatics.ca) series. Here we have organized available content by level of expertise and by interest. We take no responsiblity (or credit) for the content of the linked materials, though I think they are all quite good and reflect a lot of thought and hard work by the content authors. At the bottom we include a couple of courses and resources suitable for someone with a computational background who wants an entrez to [bioinformatics](#advanced) and [biology](#biology-for-computer-scientists) more broadly.
 
-# 1. Foundations
+# Foundations
 ### I want to start with the basics (what are genomics, data, bioinformatics):
 - Introduction to Genomic Technologies ([Coursera](https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science))
 
@@ -25,7 +25,7 @@ There are now so many excellent courses and freely available resources for learn
 - Python for Genomic Data Science ([Coursera](https://www.coursera.org/learn/python-genomics?specialization=genomic-data-science))
 - Algorithms for DNA Sequencing (intro. to basic algorithms and data structures) ([Coursera](https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science))
 
-# 2. Intermediate
+# Intermediate
 ### I want to learn to use R and Bioconductor:
 - Introduction to R ([CBW](https://bioinformatics.ca/workshops/2018-introduction-to-R/)) 
 - Exploratory Analysis of Biological Data ([CBW](https://bioinformatics.ca/workshops/2018-exploratory-analysis-of-biological-data-using-R/)) 
@@ -46,7 +46,7 @@ There are now so many excellent courses and freely available resources for learn
 - Rosalind ([web](http://rosalind.info/problems/locations/))
 
 ---
-# 3. Advanced
+# Advanced
 
 ### I have a computational background and want to learn some computational biology:
 - Computational Biology (Kellis) [MIT course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-047-computational-biology-fall-2015/lectures_slides/)
@@ -58,7 +58,7 @@ There are now so many excellent courses and freely available resources for learn
 - Deep Learning (theory and deep background) ([Ebook](http://www.deeplearningbook.org))
 
 ---
-# 4. Biology for Computer Scientists
+# Biology for Computer Scientists
 
 ### I have a computational background and want to learn some biology relevant to genomics:
 - Introduction to Genomic Technologies ([Coursera](https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science))

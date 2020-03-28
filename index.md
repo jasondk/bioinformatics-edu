@@ -1,11 +1,12 @@
 # Bioinformatics Training Resources for Experimentalists (and Friends)
-*27 March 2020*
-*[Jason de Koning](http://lab.jasondk.io)*
-*Cumming School of Medicine*
-*University of Calgary*
-*With thanks to: Dr. Quan Long and Dr. Paul Gordon for input*
+*27 March 2020*<P>
 
 There are now so many excellent courses and freely available resources for learning bioinformatics it can be hard to know where to start. Some of our favourite resources come from the [Genomic Data Science specialization](https://www.coursera.org/specializations/genomic-data-science) on Coursera, and from the [Canadian Bioinformatics Workshops](https://bioinformatics.ca) series. Here we have organized available content by level of expertise and by interest. We take no responsiblity (or credit) for the content of the linked materials, though I think they are all quite good and reflect a lot of thought and hard work by the content authors. At the bottom we include a couple of courses and resources suitable for someone with a computational background who wants an entrez to [bioinformatics](#advanced) and [biology](#biology-for-computer-scientists) more broadly.
+
+*[Jason de Koning](http://lab.jasondk.io)*<BR>
+*Cumming School of Medicine*<BR>
+*University of Calgary*<BR>
+*With thanks to: Dr. Quan Long and Dr. Paul Gordon for input*<BR>
 
 # Foundations
 ### I want to start with the basics (what are genomics, data, bioinformatics):

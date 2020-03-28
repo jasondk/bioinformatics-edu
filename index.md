@@ -1,5 +1,5 @@
 # Bioinformatics Training Resources for Experimentalists (and Friends)
-*27 March 2020*<P>
+*27 March 2020*
 
 There are now so many excellent courses and freely available resources for learning bioinformatics it can be hard to know where to start. Some of our favourite resources come from the [Genomic Data Science specialization](https://www.coursera.org/specializations/genomic-data-science) on Coursera, and from the [Canadian Bioinformatics Workshops](https://bioinformatics.ca) series. Here we have organized available content by level of expertise and by interest. We take no responsiblity (or credit) for the content of the linked materials, though I think they are all quite good and reflect a lot of thought and hard work by the content authors. At the bottom we include a couple of courses and resources suitable for someone with a computational background who wants an entrez to [bioinformatics](#advanced) and [biology](#biology-for-computer-scientists) more broadly.
 
@@ -13,7 +13,7 @@ There are now so many excellent courses and freely available resources for learn
 - Introduction to Genomic Technologies ([Coursera](https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science))
 
 ### I want to learn about basic bioinformatics tools and approaches:
-- Bioinformatics Methods I (BLAST, alignment, phylogeny, RNA-seq, etc.) [Coursera](https://www.coursera.org/learn/bioinformatics-methods-1)
+- Bioinformatics Methods I (BLAST, align, phylogeny, RNA-seq, etc.) [Coursera](https://www.coursera.org/learn/bioinformatics-methods-1)
 - Informatics on High Throughput Sequencing Data ([CBW 2018](https://bioinformatics.ca/workshops/2018-informatics-on-high-throughput-sequencing-data/))
 
 ### I want to learn how to use tools and workflows without coding:

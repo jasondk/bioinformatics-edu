@@ -8,6 +8,7 @@ There are now so many excellent courses and freely available resources for learn
 *University of Calgary*<BR>
 *With thanks to: Dr. Quan Long and Dr. Paul Gordon for input*<BR>
 
+---
 # Foundations
 ### I want to start with the basics (what are genomics, data, bioinformatics):
 - Introduction to Genomic Technologies ([Coursera](https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science))
@@ -30,6 +31,7 @@ There are now so many excellent courses and freely available resources for learn
 - Python for Genomic Data Science ([Coursera](https://www.coursera.org/learn/python-genomics?specialization=genomic-data-science))
 - Algorithms for DNA Sequencing (intro. to basic algorithms and data structures) ([Coursera](https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science))
 
+---
 # Intermediate
 ### I want to learn to use R and Bioconductor:
 - Introduction to R ([CBW](https://bioinformatics.ca/workshops/2018-introduction-to-R/)) 

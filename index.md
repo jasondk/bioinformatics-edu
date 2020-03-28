@@ -23,7 +23,7 @@ Here we have listed some of our favourite bioinformatics learning resources that
 
 ## I want to learn to code:
 - Python for Genomic Data Science ([Coursera](https://www.coursera.org/learn/python-genomics?specialization=genomic-data-science))
-- Algorithms for DNA Sequencing (intro. to basic algorithms and data structures) https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science
+- Algorithms for DNA Sequencing (intro. to basic algorithms and data structures) ([Coursera](https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science))
 
 # 2. Intermediate
 ## I want to learn to use R and Bioconductor:

@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# Bioinformatics Education Resources
+*v0.1 March 2020 - de Koning, Gordon, Long* - **To be updated soon**
 
-You can use the [editor on GitHub](https://github.com/jasondk/bioinformatics-edu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here we have listed some of our favourite bioinformatics learning resources that are freely available online.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 1. Foundations
+## I want to start with the basics (what are genomics, data, bioinformatics):
+- Introduction to Genomic Technologies ([Coursera](https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science))
 
-### Markdown
+## I want to learn about basic bioinformatics tools and approaches:
+- Bioinformatics Methods I (BLAST, alignment, phylogeny, RNA-seq, etc.) [Coursera](https://www.coursera.org/learn/bioinformatics-methods-1)
+- Informatics on High Throughput Sequencing Data ([CBW 2018](https://bioinformatics.ca/workshops/2018-informatics-on-high-throughput-sequencing-data/))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## I want to learn how to use tools and workflows without coding:
+- Genomic Data Science with Galaxy ([Coursera](https://www.coursera.org/learn/galaxy-project?specialization=genomic-data-science))
+- EnsEMBL BioMart (web-based querying of huge databases easily) [Short Tutorial](https://uswest.ensembl.org/info/data/biomart/how_to_use_biomart.html)
 
-```markdown
-Syntax highlighted code block
+## I want to learn how to run tools at the command-line:
+- Command Line Tools for Genomic Data Science ([Coursera](https://www.coursera.org/learn/genomic-tools))
 
-# Header 1
-## Header 2
-### Header 3
+## I want to learn some statistics relevant to bioinformatics:
+- Statistics for Genomic Data Science ([Coursera](https://www.coursera.org/learn/statistical-genomics))
 
-- Bulleted
-- List
+## I want to learn to code:
+- Python for Genomic Data Science ([Coursera](https://www.coursera.org/learn/python-genomics?specialization=genomic-data-science))
+- Algorithms for DNA Sequencing (intro. to basic algorithms and data structures) https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science
 
-1. Numbered
-2. List
+# 2. Intermediate
+## I want to learn to use R and Bioconductor:
+- Introduction to R ([CBW](https://bioinformatics.ca/workshops/2018-introduction-to-R/)) 
+- Exploratory Analysis of Biological Data ([CBW](https://bioinformatics.ca/workshops/2018-exploratory-analysis-of-biological-data-using-R/)) 
+- Bioconductor for Genomic Data Science ([CBW](https://www.coursera.org/learn/bioconductor))
 
-**Bold** and _Italic_ and `Code` text
+## I want to learn bioinformatics tools for a specific task or domain:
+- Informatics for RNA-seq Analysis ([CBW](https://bioinformatics.ca/workshops/2018-informatics-for-RNA-seq-analysis/))
+- Analysis of Metagenomic Data ([CBW](https://bioinformatics.ca/workshops/2018-analysis-of-metagenomic-data/))
+- Epigenomic Data Analysis ([CBW](https://bioinformatics.ca/workshops/2018-epigenomic-data-analysis/)) 
+- Bioinformatics for Cancer Genomics ([CBW](https://bioinformatics.ca/workshops/2018-bioinformatics-for-cancer-genomics/)) 
+- Bioinformatics of Genomic Medicine ([CBW](https://bioinformatics.ca/workshops/2018-bioinformatics-of-genomic-medicine/))
+- Infectious Disease Genomic Epidemiology ([CBW](https://bioinformatics.ca/workshops/2018-infectious-disease-genomic-epidemiology/))
 
-[Link](url) and ![Image](src)
-```
+## I want to apply more advanced methods to research problems:
+- Pathway and Network Analysis of -Omics Data ([CBW](https://bioinformatics.ca/workshops/2018-pathway-and-network-analysis-of-omics-data/))
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## I want some bioinformatics and programming problem sets and/or resources for problem-based learning:
+- Rosalind ([web](http://rosalind.info/problems/locations/))
 
-### Jekyll Themes
+---
+# 3. Advanced
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasondk/bioinformatics-edu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## I have a computational background and want to learn some computational biology:
+- Computational Biology (Kellis) [MIT course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-047-computational-biology-fall-2015/lectures_slides/)
+- Computational Genomics: Applied Comparative Genomics (Schatz) [Course](https://github.com/schatzlab/appliedgenomics2019)
+- Applied Computational Genomics (Quinlan) [Course](https://github.com/quinlan-lab/applied-computational-genomics)
 
-### Support or Contact
+## I want some in depth resources for next steps and other topics:
+- Introduction to Java Programming ([Ebook](http://math.hws.edu/javanotes/))
+- Deep Learning (theory and deep background) ([Ebook](http://www.deeplearningbook.org))
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+# 4. Biology for Computer Scientists
+
+## I have a computational background and want to learn some biology relevant to genomics:
+- Introduction to Genomic Technologies ([Coursera](https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science))
+- XBio iBiology ([Web](https://explorebiology.org/collections/genetics))
+- Algorithms for DNA Sequencing (intro. to basic algorithms and data structures; [Coursera](https://www.coursera.org/learn/dna-sequencing?specialization=genomic-data-science))

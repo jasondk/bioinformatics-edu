@@ -15,7 +15,7 @@ There are now so many excellent courses and freely available resources for learn
 
 ### I want to learn about basic bioinformatics tools and approaches:
 - Bioinformatics Methods I (BLAST, align, phylogeny, RNA-seq, etc.) [Coursera](https://www.coursera.org/learn/bioinformatics-methods-1)
-- Informatics on High Throughput Sequencing Data ([CBW 2018](https://bioinformatics.ca/workshops/2018-informatics-on-high-throughput-sequencing-data/))
+- High Throughput Genomics Analysis ([CBW 2018](https://bioinformatics.ca/workshops-all/2021-high-throughput-genomics-analysis/))
 
 ### I want to learn how to use tools and workflows without coding:
 - Genomic Data Science with Galaxy ([Coursera](https://www.coursera.org/learn/galaxy-project?specialization=genomic-data-science))

@@ -1,5 +1,5 @@
 # Bioinformatics Training Resources for Experimentalists (and Friends)
-*27 March 2020*
+*Links updated January 10, 2024*
 
 There are now so many excellent courses and freely available resources for learning bioinformatics it can be hard to know where to start. Some of our favourite introductory resources come from the [Genomic Data Science specialization](https://www.coursera.org/specializations/genomic-data-science) on Coursera, and from the [Canadian Bioinformatics Workshops](https://bioinformatics.ca) series. Here we have organized available content by level of expertise and by interest. We take no responsiblity (or credit) for the content of the linked materials, though I think they are all quite good and reflect a lot of thought and hard work by the content authors. At the bottom we include a couple of courses and resources suitable for someone with a computational background who wants an entrez to [bioinformatics](#advanced) and [biology](#biology-for-computer-scientists) more broadly.
 
@@ -34,20 +34,19 @@ There are now so many excellent courses and freely available resources for learn
 ---
 # Intermediate
 ### I want to learn to use R and Bioconductor:
-- Introduction to R ([CBW](https://bioinformatics.ca/workshops/2018-introduction-to-R/)) 
-- Exploratory Analysis of Biological Data ([CBW](https://bioinformatics.ca/workshops/2018-exploratory-analysis-of-biological-data-using-R/)) 
-- Bioconductor for Genomic Data Science ([CBW](https://www.coursera.org/learn/bioconductor))
+- Introduction to R ([CBW](https://bioinformatics.ca/workshops-all/2021-introduction-to-r/)) 
+- Exploratory Analysis of Biological Data ([CBW](https://bioinformatics.ca/workshops-all/2020-exploratory-analysis-of-biological-data-using-r/)) 
+- Bioconductor for Genomic Data Science ([Coursera](https://www.coursera.org/learn/bioconductor))
 
 ### I want to learn bioinformatics tools for a specific task or domain:
-- Informatics for RNA-seq Analysis ([CBW](https://bioinformatics.ca/workshops/2018-informatics-for-RNA-seq-analysis/))
-- Analysis of Metagenomic Data ([CBW](https://bioinformatics.ca/workshops/2018-analysis-of-metagenomic-data/))
-- Epigenomic Data Analysis ([CBW](https://bioinformatics.ca/workshops/2018-epigenomic-data-analysis/)) 
-- Bioinformatics for Cancer Genomics ([CBW](https://bioinformatics.ca/workshops/2018-bioinformatics-for-cancer-genomics/)) 
-- Bioinformatics of Genomic Medicine ([CBW](https://bioinformatics.ca/workshops/2018-bioinformatics-of-genomic-medicine/))
-- Infectious Disease Genomic Epidemiology ([CBW](https://bioinformatics.ca/workshops/2018-infectious-disease-genomic-epidemiology/))
+- Informatics for RNA-seq Analysis ([CBW](https://bioinformatics.ca/workshops-all/2020-informatics-for-rna-seq-analysis/))
+- Microbiome Analysis ([CBW](https://bioinformatics.ca/workshops-all/2021-microbiome-analysis/))
+- Epigenomic Data Analysis ([CBW](https://bioinformatics.ca/workshops-all/2021-epigenomics-analysis/)) 
+- Bioinformatics for Cancer Genomics ([CBW](https://bioinformatics.ca/workshops-all/bioinformatics-for-cancer-genomics/)) 
+- Infectious Disease Genomic Epidemiology ([CBW](https://bioinformatics.ca/workshops-all/2021-infectious-disease-epidemiology-analysis/))
 
 ### I want to apply more advanced methods to research problems:
-- Pathway and Network Analysis of -Omics Data ([CBW](https://bioinformatics.ca/workshops/2018-pathway-and-network-analysis-of-omics-data/))
+- Pathway and Network Analysis of -Omics Data ([CBW](https://bioinformatics.ca/workshops-all/2021-pathway-and-network-analysis/))
 
 ### I want some bioinformatics and programming problem sets and/or resources for problem-based learning:
 - Rosalind ([web](http://rosalind.info/problems/locations/))
